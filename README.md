@@ -1,2 +1,2 @@
-# Hello Team
+# Hello team
 # Hello Rakesh
